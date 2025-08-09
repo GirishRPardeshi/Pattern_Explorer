@@ -3,7 +3,7 @@
 A **comprehensive Python project** featuring multiple pattern printing logics, ranging from basic star patterns to advanced number/character shapes like pyramids, diamonds, butterflies, X-shapes, Pascal's triangle, and more.
 
 ## 📌 Features
-- **50+ Pattern Variations** (Stars, Numbers, Alphabets, Mixed)
+- **10+ Pattern Variations** (Stars, Numbers)
 - **Shapes Included:**
   - Square
   - Right/Left Triangle

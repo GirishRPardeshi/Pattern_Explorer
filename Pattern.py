@@ -225,7 +225,7 @@ PATTERNS = {
 
 # --------------------- Streamlit UI ---------------------
 
-st.title("Pattern Explorer — Streamlit")
+st.title("Pattern Explorer — Girish")
 st.write("Choose a pattern on the left. The pattern output and the source code appear side-by-side.")
 
 with st.sidebar:

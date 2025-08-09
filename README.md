@@ -1,6 +1,6 @@
-# 🎨 Python Pattern Printing Mega Collection
+# 🎨 Python Pattern Explorer
 
-A **comprehensive Python project** featuring multiple pattern printing logics, ranging from basic star patterns to advanced number/character shapes like pyramids, diamonds, butterflies, X-shapes, Pascal's triangle, and more.
+A **comprehensive Python project** featuring multiple pattern ranging from basic star patterns to advanced number/character shapes like pyramids, diamonds, X-shapes, Pascal's triangle, and more.
 
 ## 📌 Features
 - **10+ Pattern Variations** (Stars, Numbers)
@@ -11,10 +11,8 @@ A **comprehensive Python project** featuring multiple pattern printing logics, r
   - Inverted Pyramid
   - Diamond Shape
   - Hollow Patterns
-  - Butterfly Pattern
   - X Pattern
   - Pascal's Triangle
-  - Zig-Zag Patterns
   - More...
 - **Well-structured functions** for each pattern
 - **Easily Customizable** — change size, characters, and symbols
